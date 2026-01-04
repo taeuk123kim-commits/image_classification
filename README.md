@@ -1,10 +1,16 @@
 # image_classification
 
-<div align="center"><strong>best_convnext result</strong></div>  
-![best_convnext](model/convnext_result/best_convnext.png)
+<p align="center"><strong>best_convnext result</strong></p>
+<p align="center">
+  <img src="model/convnext_result/best_convnext.png" alt="best_convnext" />
+</p>
 
-<div align="center"><strong>original_convnext result</strong></div>   
-![original_convnext](model/convnext_result/original_convnext.png)
+<p align="center"><strong>original_convnext result</strong></p>
+<p align="center">
+  <img src="model/convnext_result/original_convnext.png" alt="original_convnext" />
+</p>
 
-<div align="center"><strong>auto_parameter_convnext result</strong></div>  
-![best_convnext](model/convnext_result/auto_parameter.png)
+<p align="center"><strong>auto_parameter_convnext result</strong></p>
+<p align="center">
+  <img src="model/convnext_result/auto_parameter.png" alt="auto_parameter_convnext" />
+</p>
